@@ -1,0 +1,11 @@
+values<-c("sarika")
+count=1
+repeat
+{
+  print(values)
+  count=count+1
+  if(count>2)
+  {
+    break
+  }
+}

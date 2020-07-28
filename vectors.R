@@ -1,0 +1,16 @@
+print("abc")
+print("8.8")
+print("8+8i")
+print(charToRaw("hello"))
+print("88L")
+print(TRUE)
+v1<-c(1,2,3,4,5)
+v2<-c(1,2,3,4,5)
+add.result=v1+v2
+print(add.result)
+sub.result=v2-v1
+print(sub.result)
+mul.result=v1*v2
+print(mul.result)
+div.result=v2/v1
+print(div.result)

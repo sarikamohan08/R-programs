@@ -1,0 +1,1 @@
+boxplot(mpg~cyl,data=mtcars,xlab="no.of cylinders",ylab="miles per gallon",main="milleage data",col=c("blue","pink","purple"))

@@ -1,0 +1,5 @@
+data<-c("east","east","west","north","south","west","north","south")
+factor_data<-factor(data)
+print(factor_data)
+v<-gl(3,4,labels=c("abc","def","hij"))
+print(v)

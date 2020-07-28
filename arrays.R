@@ -1,0 +1,11 @@
+v1<-c(1,2,3)
+v2<-c(4,5,6,7,8,9)
+result<-array(c(v1,v2),dim=c(3,3,2))
+print(result)
+print(result[1,1,2])
+print(result[3,3,1])
+mat1<-result[2,3,1]
+print(mat1)
+mat2<-result[3,1,1]
+print(mat2)
+print(mat1+mat2)

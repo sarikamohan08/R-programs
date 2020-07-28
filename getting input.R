@@ -1,0 +1,12 @@
+NUM1=readline(prompt = "enter number 1:")
+NUM1=as.integer(NUM1)
+NUM2=readline(prompt = "enter number 2:")
+NUM2=as.integer(NUM2)
+print(NUM1+NUM2)
+
+NUM1=readline(prompt = "enter number 1:")
+NUM1=as.character(NUM1)
+NUM2=readline(prompt = "enter number 2:")
+NUM2=as.character(NUM2)
+print(NUM1)
+print(NUM2)
